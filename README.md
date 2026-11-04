@@ -1,2 +1,6 @@
-Implementation of the algorithm presented in the paper titled "PreBA-Fed: A Robust Federated Learning Framework via Prediction Behavior Analysis" with Tensorflow.
+This repository contains the official source code for the paper:
 --
+Authored by:
+* Afsaneh Afzali (af.afzali@sutech.ac.ir)
+* Pirooz Shamsinejadbabaki (p.shamsinejad@sutech.ac.ir)
+---
